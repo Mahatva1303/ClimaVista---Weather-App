@@ -16,8 +16,9 @@ Dynamic current weather App built with React.JS, Material UI and API
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="images1/dashboard1.png" alt="Dashboard 1" width="350"/>
-  <img src="images2/dashboard2.png" alt="Dashboard 2" width="350"/>
+  <img src="images/image1.png" alt="winter 1" width="350"/>
+  <img src="images/image2.png" alt="summer 2" width="350"/>
+   <img src="images/image3.png" alt="rain 2" width="350"/>
 </p>
 
 ## 🛠️ Tech Stack
