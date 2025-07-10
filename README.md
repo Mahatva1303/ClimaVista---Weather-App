@@ -12,7 +12,11 @@
 
 ## 📸 Screenshots
 
-![Screenshot](./screenshots/main-view.png)
+<p align="center">
+  <img src="images/image1.png" alt="Dashboard 1" width="350"/>
+  <img src="images/image2.png" alt="Dashboard 2" width="350"/>
+   <img src="images/image3.png" alt="Dashboard 2" width="350"/>
+</p>
 
 ## 🛠️ Tech Stack
 
